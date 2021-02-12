@@ -1,0 +1,25 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+nav.navbar {
+    background-color:#A4A4A4;
+}
+
+.quem-sou{
+    background-color: blue;
+    color: blanchedalmond;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.formacoes{
+    background-color: cornflowerblue;
+}
+
+.bg-footer{
+    background-color: black;
+    color: gray;
+}
